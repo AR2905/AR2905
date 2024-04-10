@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my professional details [https://avr-portfolio.vercel.app/](https://avr-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, Node, Express, MongoDb**
-
 - 📫 How to reach me **ash.rd2905@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_lRyHnDbgYO-5Wv3QBCUTHMo7ixzbqUm/view?pli=1](https://drive.google.com/file/d/1_lRyHnDbgYO-5Wv3QBCUTHMo7ixzbqUm/view?pli=1)
