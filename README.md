@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AR2905/AR2905/main/AVR.png" alt="Logo" width="75%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ashish V Rathod</h1>
 <h3 align="center">A passionate Web Development</h3>
 
