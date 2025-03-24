@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AR2905/AR2905/main/AVR.png" alt="Logo" width="75%">
+  <img src="https://raw.githubusercontent.com/AR2905/AR2905/main/AVR_NEW.jpg" alt="Logo" width="75%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc;">Ashish V Rathod</span> </h1>
